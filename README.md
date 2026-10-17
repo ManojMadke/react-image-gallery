@@ -78,8 +78,10 @@ react-image-gallery/
 
 **Manoj Anand Madke**
 
-- GitHub: [@ManojMadke](https://github.com/ManojMadke)
+  CSE (AI & ML) Graduate | Python Full Stack Developer
 
+- GitHub: https://github.com/ManojMadke
+- LinkedIn: https://www.linkedin.com/in/manoj-madke
 ---
 
 ⭐ If you like this project, consider giving the repository a star!
