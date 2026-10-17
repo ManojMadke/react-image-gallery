@@ -2,6 +2,12 @@
 
 A simple and interactive image gallery built with **React, Tailwind CSS, and the Picsum Photos API**. The application fetches images dynamically and displays them in a clean card-based layout with pagination controls.
 
+## 📸 Screenshot
+
+o Screenshot :
+
+![React Image Gallery](public/Screenshot.png)
+
 ## ✨ Features
 
 - 🖼️ **Dynamic Image Gallery** – Fetches images from the Picsum Photos API.
@@ -40,6 +46,7 @@ https://picsum.photos/v2/list?page=1&limit=21
 ```text
 react-image-gallery/
 ├── public/
+|    └── Screenshot.png
 ├── src/
 │   ├── components/
 │   │   └── Card.jsx
