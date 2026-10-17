@@ -4,7 +4,7 @@ A simple and interactive image gallery built with **React, Tailwind CSS, and the
 
 ## 🚀 Live Demo
 
-🔗 Link:- https://react-image-gallery-eta.vercel.app/
+🔗 Link:- https://react-image-gallery-bice.vercel.app/
 
 ## 📸 Screenshot
 
